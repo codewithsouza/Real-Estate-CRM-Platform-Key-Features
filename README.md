@@ -26,26 +26,30 @@ This project is a web-based CRM system tailored for real estate businesses. It a
 
 > All screens are from a working prototype and reflect a real-world SaaS CRM use case.
 
-### 🔐 Login  
-![Login](./seets/Login.png)
+## 🖼️ Screenshots
+
+> The following images illustrate the key features and UI of the Real Estate CRM Platform.
+
+### 🔐 Admin Login  
+![Admin Login](./imagens/Login%20Admin.png)
 
 ### 🧭 Admin Dashboard  
-![Dashboard](./seets/Dashboard.png)
+![Admin Dashboard](./imagens/Dashboard%20admin.png)
 
-### 🏘️ Developments List  
-![Developments](./seets/Developments.png)
+### 🏘️ Developments Overview  
+![Empreendimentos](./imagens/Empreendimentos.png)
 
-### 🏠 Properties List  
-![Properties](./seets/Properties.png)
+### 🏗️ Lot List  
+![Lotes](./imagens/Lotes.png)
 
-### ➕ Register Consultant  
-![Consultant Form](./seets/RegisterConsultant.png)
+### 📄 Lot Detail View  
+![Detalhe Lote](./imagens/Detalhe_lote.png)
 
-### 🧑 Consultant View (Properties Only)  
-![Consultant View](./seets/ConsultantView.png)
+### 🧑 Consultant Dashboard  
+![Consultant Dashboard](./imagens/dashboard.png)
 
-### 📄 Sales List (Restricted)  
-![Sales](./seets/Sales.png)
+### 💰 Sales View (Admin Only)  
+![Vendas](./imagens/vendas.png)
 
 
 ## 📌 Notes
