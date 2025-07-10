@@ -37,7 +37,7 @@ This project is a web-based CRM system tailored for real estate businesses. It a
 ![Admin Dashboard](./imagens/Dashboard%20admin.png)
 
 ### 🏘️ Developments Overview  
-![Empreendimentos](./imagens/Empreendimentos.png)
+![Empreendimentos](./seets/Empreendimentos.png)
 
 ### 🏗️ Lot List  
 ![Lotes](./imagens/Lotes.png)
