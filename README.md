@@ -1,24 +1,33 @@
 # 🏘️ Real Estate CRM Platform
 
-This project is a web-based CRM system tailored for real estate businesses. It allows management of developments, properties, and sales workflows with support for different user profiles — including consultants and administrators.
+A full-featured CRM solution built for real estate professionals and agencies. This web-based system streamlines the management of developments, individual properties, and sales workflows — with distinct access levels for administrators and consultants.
 
 ---
 
-## 🚀 Stack Used
+## 🚀 Tech Stack
 
 `Django` · `Python` · `JavaScript` · `PostgreSQL` · `HTML/CSS`
 
 ---
 
-## 🔑 Key Features
+## 🔧 Core Functionalities
 
-- Role-based dashboard (Admin vs Consultant)
-- Developments and property management
-- Real-time status overview (available, sold, reserved)
-- Consultant registration and access filtering
-- Sales listing (restricted by role)
-- Authentication and secure routing
-- Recent updates tracking
+✅ **Role-based Access**  
+- Consultants access listings tailored to their work.  
+- Admins manage the platform through a full-featured dashboard.
+
+🏢 **Development Management**  
+- Register and monitor multiple developments with unit-level status: available, sold, or reserved.
+
+📄 **Property & Sales Management**  
+- View and edit property details, availability, pricing, and registration history.  
+- Sales records accessible to authorized users only.
+
+🔐 **Authentication & Routing**  
+- Secure login with automatic redirection based on user type.
+
+🕵️ **Recent Updates & Insights**  
+- Track the latest property or development updates in real-time.
 
 ---
 
@@ -31,41 +40,40 @@ This project is a web-based CRM system tailored for real estate businesses. It a
 > The following images illustrate the key features and UI of the Real Estate CRM Platform.
 
 ### 🔐 Admin Login  
-![Admin Login](./imagens/Login%20Admin.png)
+![Admin Login](./seets/Login%20Admin.png)
 
 ### 🧭 Admin Dashboard  
-![Admin Dashboard](./imagens/Dashboard%20admin.png)
+![Admin Dashboard](./seets/Dashboard%20admin.png)
 
 ### 🏘️ Developments Overview  
 ![Empreendimentos](./seets/Empreendimentos.png)
 
 ### 🏗️ Lot List  
-![Lotes](./imagens/Lotes.png)
+![Lotes](./seets/Lotes.png)
 
 ### 📄 Lot Detail View  
-![Detalhe Lote](./imagens/Detalhe_lote.png)
+![Detalhe Lote](./seets/Detalhe_lote.png)
 
 ### 🧑 Consultant Dashboard  
-![Consultant Dashboard](./imagens/dashboard.png)
+![Consultant Dashboard](./seets/dashboard.png)
 
 ### 💰 Sales View (Admin Only)  
-![Vendas](./imagens/vendas.png)
+![Vendas](./seets/vendas.png)
 
 
 ## 📌 Notes
 
-- This project was built as a freelance solution for internal CRM use.
-- Focus was placed on clean separation of roles and scalable code structure.
-- Database models are optimized for reporting and access control.
+This is a demo repository for portfolio purposes.  
+Feel free to reach out to discuss the system architecture or features in more detail.
 
 ---
 
-## 🔗 Contact
+## 🤝 Contact
 
-Want to collaborate or need something similar?
-
-📬 [lds.antunesdev@gmail.com](mailto:lds.antunesdev@gmail.com)  
-💼 [Upwork Profile](https://www.upwork.com/freelancers/~01528998e13ceaa5aa)  
-🌐 [LinkedIn](https://linkedin.com/in/lucas-souza-a869882aa)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lds.antunesdev@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-souza-a869882aa/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codewithsouza)
 
 ---
+
+*Let’s build something amazing together. Available for freelance and remote opportunities.*
